@@ -22,15 +22,15 @@
   21. 拉伸应变 目标变量：拉伸应变（%）
 
 输入：
- 1.训练集：PVA_hydrogel_train.csv
- 2.验证集：PVA_hydrogel_val.csv
- 3.测试集：PVA_hydrogel_test.csv
+ 1. 训练集：PVA_hydrogel_train.csv
+ 2. 验证集：PVA_hydrogel_val.csv
+ 3. 测试集：PVA_hydrogel_test.csv
 
 输出：
- 1.代码及输出图片：多模型.ipynb
- 2.模型文件：best_pva_hydrogel_model_梯度提升.pkl
- 3.模型信息：model_info.json（含特征重要性、超参数配置）
- 4.分析报告：pva_hydrogel_analysis_report.json（完整实验记录与可视化结果）
+ 1. 代码及输出图片：多模型.ipynb
+ 2. 模型文件：best_pva_hydrogel_model_梯度提升.pkl
+ 3. 模型信息：model_info.json（含特征重要性、超参数配置）
+ 4. 分析报告：pva_hydrogel_analysis_report.json（完整实验记录与可视化结果）
 
  结果：
  💡 基于模型的材料设计建议:
